@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\patika\Tip donusumleri\bin\Debug\net7.0\Tip donusumleri.exe
+C:\Users\HP\Desktop\patika\Tip donusumleri\bin\Debug\net7.0\Tip donusumleri.deps.json
+C:\Users\HP\Desktop\patika\Tip donusumleri\bin\Debug\net7.0\Tip donusumleri.runtimeconfig.json
+C:\Users\HP\Desktop\patika\Tip donusumleri\bin\Debug\net7.0\Tip donusumleri.dll
+C:\Users\HP\Desktop\patika\Tip donusumleri\bin\Debug\net7.0\Tip donusumleri.pdb
+C:\Users\HP\Desktop\patika\Tip donusumleri\obj\Debug\net7.0\Tip donusumleri.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\patika\Tip donusumleri\obj\Debug\net7.0\Tip donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\patika\Tip donusumleri\obj\Debug\net7.0\Tip donusumleri.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\patika\Tip donusumleri\obj\Debug\net7.0\Tip donusumleri.AssemblyInfo.cs
+C:\Users\HP\Desktop\patika\Tip donusumleri\obj\Debug\net7.0\Tip donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\patika\Tip donusumleri\obj\Debug\net7.0\Tip donusumleri.dll
+C:\Users\HP\Desktop\patika\Tip donusumleri\obj\Debug\net7.0\refint\Tip donusumleri.dll
+C:\Users\HP\Desktop\patika\Tip donusumleri\obj\Debug\net7.0\Tip donusumleri.pdb
+C:\Users\HP\Desktop\patika\Tip donusumleri\obj\Debug\net7.0\Tip donusumleri.genruntimeconfig.cache
+C:\Users\HP\Desktop\patika\Tip donusumleri\obj\Debug\net7.0\ref\Tip donusumleri.dll
